@@ -1,5 +1,13 @@
-# Airdrop-NFT-Collection
-This collection has an airdrop method that was done specifically for one of the relevant projects.
+# Sample Hardhat Project
 
-# about Airdrop-NFT-Collection
-This collection has an airdrop method that was done specifically for one of the relevant projects. This is the way that 99 of the total number of 9999 is minted by the manufacturer and the rest of the NFTs are minted in such a way that when a user buys one of the initial 99 minted NFTs, one of the remaining 9999 is minted. The moment is minted and goes to the user's account
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
