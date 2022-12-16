@@ -1,0 +1,64 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/soheilvafaei/Documents/project/Airdrop-NFT-Collection/contracts/collection.sol": {
+      "lastModificationDate": 1671216235248,
+      "contentHash": "c6c4253b0bc88222e749ea6528f8890f",
+      "sourceName": "contracts/collection.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.1",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Address",
+        "Airdrop_NFT_Collection",
+        "Context",
+        "ERC165",
+        "ERC721",
+        "ERC721Burnable",
+        "ERC721URIStorage",
+        "IERC165",
+        "IERC721",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Ownable",
+        "Strings"
+      ]
+    }
+  }
+}
